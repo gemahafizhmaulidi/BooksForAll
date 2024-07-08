@@ -1,0 +1,30 @@
+ {
+  "project_info": {
+    "project_number": "105310337350",
+    "firebase_url": "https://booksforall-dc4e6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "booksforall-dc4e6",
+    "storage_bucket": "booksforall-dc4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105310337350:android:c679ab0d8026c5fa420d47",
+        "android_client_info": {
+          "package_name": "com.example.booksforall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL01FWy_bVASU2U0-nU-Xk043JCSXZlQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
